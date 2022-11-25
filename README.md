@@ -7,3 +7,11 @@
 
 
 Browser bad text UPPERCASE
+
+Это яблоко This apple
+
+![Это яблоко](apple.png) 
+
+Апельсин очень вкусный
+
+![Orange](orange.png)
